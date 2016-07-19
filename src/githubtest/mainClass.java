@@ -12,7 +12,7 @@ public class mainClass {
 		PersonInfo person2 = new PersonInfo("Shiyu", "00000000", "Nepalese");
 		person2.displayInfo();
 		
-		
+		System.out.println("This is not cool");
 	}
 
 }
