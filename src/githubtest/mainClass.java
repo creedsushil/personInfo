@@ -6,7 +6,9 @@ public class mainClass {
 		// TODO Auto-generated method stub
 		PersonInfo person1 = new PersonInfo("Abc", "123456", "Chinese");
 		person1.displayInfo();
+		
 		System.out.println("                                                      ");
+		
 		PersonInfo person2 = new PersonInfo("Shiyu", "00000000", "Nepalese");
 		person2.displayInfo();
 		
